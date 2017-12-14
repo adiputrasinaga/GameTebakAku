@@ -1,0 +1,49 @@
+@media only screen and (max-width : 280px) {
+    logo1 { float:none; }
+}
+@media only screen and (max-width : 480px) {
+    header1 { float:auto; margin-left:none; }
+}
+.navbar {
+    padding-top: 1px;
+    padding-bottom: 1px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 14px;
+    letter-spacing: 5px;
+	
+}
+
+.navbar-nav li a:hover {
+    color: #1abc9c !important;
+}
+
+.container-fluid {
+	 padding-top: 1px;
+    padding-bottom: 5px;
+}
+
+
+.bg-1 { 
+    background-color: #1abc9c; 
+    color: #ffffff;
+}
+
+.bg-2 { 
+    background-color: #1abc9c; /* Green */
+    color: black;
+    padding-right: 500px;
+    padding-left: 500px;
+
+}
+
+
+.bg-4 { 
+    background-color: #2f2f2f;
+    color: #ffffff;
+}
+
+.h1 {
+    color: white;
+}
